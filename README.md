@@ -1,2 +1,3 @@
-# tewiki
-✏ The new wiki system.
+# Tewiki
+
+The next-gen wiki system.
